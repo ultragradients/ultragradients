@@ -1,0 +1,253 @@
+.ugrad-anim.red{
+ 
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    background: linear-gradient(144deg,#FF9A76, #FF6363 50%,#FF1E62);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.blue{
+
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(130deg, blue, skyblue, lightblue);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.green{
+    
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(130deg, green, rgb(57, 240, 1), lightgreen);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.peppermint{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#ba0000, #ffe5b9 50%,#ba0000);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.tropical{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background:linear-gradient(144deg,#64c5a5, #c7fdf7 50%,#6dd8db);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.nuclear{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#545454, #6baa75 50%,#cbff4d);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.mocha{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#dba75b, #f6edce 50%,#3a170d);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.olive{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#445626, #6e8b3d 50%,#96b85d);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.gold{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#ffbf00, #ffcf40 50%, #ffdc73);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.rainbow{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg, red, orange, yellow, lime, lightblue, magenta, indigo);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.retro{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg, #666547, #fb2e01, #6fcb9f, #ffe28a, #fffeb3);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.raspberry{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#ff0066, #ff6666,#ff9966, #ffcc66, #ffff66);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.blackberry{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#2b0521, #3e0930, #4f123e, #601a4c, #6b2356);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.strawberry{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#e53939, #ff8f8f, #ffb7b7, #db1515, #fd5f5f);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.lemonade{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#f8ff80, #f6ff6c, #f5ff57, #f3ff39, #f0ff00);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.citrus{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#fff0c1, #f4cb68, #fff0c1, #fff7dd, #fff0c1);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.cherry{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#5e0013, #83041e, #9a0b20, #b2152d, #c7233c);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+.ugrad-anim.airplane{
+    border:2px solid black;
+    border-radius: 15px;
+    box-shadow: 5px;
+    font-size:30px;
+    background: linear-gradient(144deg,#4d4f48, #595a54, #9aceeb, #f6f4f7, #efeeef);
+    background-size: 200% 200%;
+
+    -webkit-animation: back-anim 5s ease-in-out infinite;
+    -moz-animation: back-anim 5s ease-in-out infinite;
+    animation: back-anim 5s ease-in-out infinite;
+}
+
+
+
+@-webkit-keyframes back-anim {
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
+@-moz-keyframes back-anim {
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
+@keyframes back-anim { 
+    0%{background-position:10% 0%}
+    50%{background-position:91% 100%}
+    100%{background-position:10% 0%}
+}
